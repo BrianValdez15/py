@@ -24,3 +24,4 @@ class Application(ttk.Frame):
 main_window = tk.Tk()
 app = Application(main_window)
 app.mainloop()
+print("hola mundo")
